@@ -1,6 +1,6 @@
 # PythonDevelopmentTest
 
-###Task #1
+##Task #1
 
 Input data is contained in two disk files. Both files contain multiple entries separated by a
 newline character. The first file is of the following form:
@@ -39,20 +39,20 @@ Extension #2: input data is too big to fit into main memory.
 
 
 
-###Task #2
+##Task #2
 
 Input data is a text containing three sorts of braces “()”, “{}”, “[]”. Write a program that will
 determine if braces in text are balanced.
 
 Example input:
 
-Python {is an easy to [learn]}, (powerful programming language. It)
+*Python {is an easy to [learn]}, (powerful programming language. It)
 has efficient high­level [(data structures) and a simple but
 effective approach to object­oriented programming]. Python’s elegant
 syntax and dynamic typing, together with its {interpreted nature,
 make it an ideal language (for) scripting and rapid} application
-development in many areas on most platforms.
+development in many areas on most platforms.*
 
 Example output:
 
-Braces are balanced.
+*Braces are balanced.*
