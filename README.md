@@ -56,3 +56,8 @@ development in many areas on most platforms.*
 Example output:
 
 *Braces are balanced.*
+
+**Task #3**
+Write a decorator that stores the result of a function call and returns the cached version in
+subsequent calls (with the same parameters) for 5 minutes, or ten times ­­ whichever comes
+first.
