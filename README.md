@@ -1,6 +1,6 @@
 # PythonDevelopmentTest
 
-##Task #1
+*Task #1*
 
 Input data is contained in two disk files. Both files contain multiple entries separated by a
 newline character. The first file is of the following form:
@@ -39,7 +39,7 @@ Extension #2: input data is too big to fit into main memory.
 
 
 
-##Task #2
+*Task #2*
 
 Input data is a text containing three sorts of braces “()”, “{}”, “[]”. Write a program that will
 determine if braces in text are balanced.
