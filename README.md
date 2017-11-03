@@ -1,4 +1,5 @@
 # PythonDevelopmentTest
+*Solutions of tasks 1,2,3  are explained in the document **development-test.pdf** *
 
 **Task #1**
 
@@ -35,7 +36,6 @@ John Anderson 4321
 Extension #1: sort output entries by the ID number
 
 Extension #2: input data is too big to fit into main memory.
-
 
 
 
